@@ -7,6 +7,8 @@ VAGRANTFILE_API_VERSION = "2"
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box     = "CentOS-6.5-Desktop-05212014-x64.box"
 
+  config.ssh.private_key_path = "modules/vagrantkey/files/id_rsa"
+
   config.vm.provider "virtualbox" do |v|
         v.gui = true
         v.name = "MDev"
