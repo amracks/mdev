@@ -1,0 +1,5 @@
+---
+devusr::username:  amracks
+devusr::usergroup: amracks
+devusr::comment:   Developer
+devusr::shell:     /bin/bash

@@ -1,0 +1,7 @@
+---
+:backends: yaml
+:yaml:
+    :datadir: ./
+:hierarchy:
+    - user
+:logger: console
