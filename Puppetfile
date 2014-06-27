@@ -8,3 +8,6 @@ mod "pmods/devusr",
 
 mod "pmods/androidsdk",
     :git => "git@github.com:pmods/androidsdk.git"
+
+mod "pmods/vim",
+    :git => "git@github.com:pmods/vim.git"
