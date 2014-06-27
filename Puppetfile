@@ -6,5 +6,5 @@ mod "pmods/vagrantkey",
 mod "pmods/devusr",
     :git => "git@github.com:pmods/devusr.git"
 
-mod "pmods/AndroidSDK",
-    :git => "git@github.com:pmods/AndroidSDK.git"
+mod "pmods/androidsdk",
+    :git => "git@github.com:pmods/androidsdk.git"
