@@ -1,7 +1,7 @@
 ---
 :backends: yaml
 :yaml:
-    :datadir: ./
+    :datadir: /vagrant/conf
 :hierarchy:
     - user
 :logger: console
