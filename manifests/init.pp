@@ -1,1 +1,2 @@
 include devusr
+include androidsdk
