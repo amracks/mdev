@@ -3,3 +3,7 @@ devusr::username:  amracks
 devusr::usergroup: amracks
 devusr::comment:   Developer
 devusr::shell:     /bin/bash
+devusr::key:       "#No Key"
+
+#androidsdk::asdk_loc:     "http://dl.google.com/android"
+#androidsdk::asdk_version: "android-sdk_r23.0.2-linux"
