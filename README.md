@@ -18,3 +18,7 @@
 * Android SDK installed in /opt
 * Android SDK dependancies installed (openjdk, i686 glibc, etc.)
 * Latest apache ant installed in /opt
+* User account you specified created with password set to 'password'
+
+## Misc
+* vagrant and root passwords on defautl vagrant box are 'vagrant'
