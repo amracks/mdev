@@ -14,7 +14,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.provider "virtualbox" do |v|
         v.gui  = false
-        v.name = "MDev"
+        v.name = "MDevJ"
   end
 
   config.vm.provision :puppet do |puppet|
