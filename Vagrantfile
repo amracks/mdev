@@ -8,10 +8,12 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box     = "CentOS-6.5-Desktop-05212014-x64.box"
   config.vm.box_url = "http://www.freebsd.org/releases/9.3R/schedule.html"
 
+  config.vm.network "public_network"
+
   config.ssh.private_key_path = "modules/vagrantkey/files/id_rsa"
 
   config.vm.provider "virtualbox" do |v|
-        v.gui = true
+        v.gui  = false
         v.name = "MDev"
   end
 
