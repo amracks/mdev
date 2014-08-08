@@ -1,5 +1,4 @@
 .tmp
 Puppetfile.lock
-modules
 .vagrant
 conf/user.yaml

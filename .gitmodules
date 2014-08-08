@@ -1,0 +1,15 @@
+[submodule "vagrantkey"]
+	path = modules/vagrantkey
+	url = git@github.com:pmods/vagrantkey.git
+[submodule "devusr"]
+	path = modules/devusr
+	url = git@github.com:pmods/devusr.git
+[submodule "androidsdk"]
+	path = modules/androidsdk
+	url = git@github.com:pmods/androidsdk.git
+[submodule "vim"]
+	path = modules/vim
+	url = git@github.com:pmods/vim.git
+[submodule "javadev"]
+	path = modules/javadev
+	url = git@github.com:pmods/javadev.git
